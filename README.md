@@ -2,7 +2,7 @@
 forecasting startup profits using a machine learning model
 # Startup Profit Predictor
 
-Welcome to the **Startup Profit Predictor**, a Streamlit-based web application designed to forecast startup profits using a machine learning model. Developed by [Adan Tariq](https://www.linkedin.com/in/ehsan-arshad/), this project leverages linear regression to provide data-driven insights for business planning, launched on **September 28, 2025, at 04:08 PM PKT**.
+Welcome to the **Startup Profit Predictor**, a Streamlit-based web application designed to forecast startup profits using a machine learning model. Developed by [Adan Tariq](https://www.linkedin.com/in/adantariq/), this project leverages linear regression to provide data-driven insights for business planning, launched on **September 28, 2025, at 04:08 PM PKT**.
 
 ## Overview
 This application predicts startup profits based on key financial inputs: R&D spend, administration costs, marketing budgets, and geographic location (California, Florida, or New York). Built with Python and deployed using Streamlit, it offers an interactive interface for users to input data and visualize predictions.
